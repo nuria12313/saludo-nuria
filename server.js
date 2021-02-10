@@ -4,7 +4,7 @@ function sleep(ms) {
 
 async function main() {
   while(true) {
-    console.log('Hola Nuria');
+    console.log('Los gatos dominaran al mundo');
     await sleep(1000);
   }
 }
